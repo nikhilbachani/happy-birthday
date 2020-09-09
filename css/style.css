@@ -9,65 +9,75 @@ Made @ OneMonth HTML
 /* Clearfix Hack */
 
 .clearfix:after {
-  content: "";
-  display: table;
-  clear: both;
+	content: "";
+	display: table;
+	clear: both;
 }
 
 /* General Styles */
 
 body {
-  background: #ddd;
-  font-family: 'Open Sans', arial, sans-serif;
+	background: #ddd;
+	font-family: 'Open Sans', arial, sans-serif;
 }
 
 * {
-  -moz-box-sizing: border-box; /* Firefox */
-  -webkit-box-sizing: border-box; /* Safari/Chrome/iOS/Android */
-  box-sizing: border-box; /* IE */
+	-moz-box-sizing: border-box; /* Firefox */
+	-webkit-box-sizing: border-box; /* Safari/Chrome/iOS/Android */
+	box-sizing: border-box; /* IE */
 }
 
 p {
-  font-size: 16px;
-  line-height: 1.75;
-  margin-bottom: 28px;
+	font-size: 16px;
+	line-height: 1.75;
+	margin-bottom: 28px;
 }
 
 strong {
-  font-weight: bold;
+	font-weight: bold;
 }
 
 ul li {
-  list-style: decimal inside;
+	list-style: decimal inside;
 }
 
 /* Heading Styles */
 
 h1, h2 {
-  font-family: 'Lobster', cursive;
-  color: #e22f8f;
-  text-align: center;
-  margin-bottom: 32px;
+	font-family: 'Lobster', cursive;
+	color: #e22f8f;
+	text-align: center;
+	margin-bottom: 32px;
 }
 
 h1 {
-  font-size: 16px;
+	font-size: 16px;
 }
 
 h2 {
-  font-size: 32px;
+	font-size: 32px;
 }
 
 /* Container Styles */
 
 .container {
-  width: 600px;
-  margin: 100px auto;
+	width: 600px;
+	margin: 100px auto;
 }
 
 /* Hero Styles */
 
 .hero img {
-  width: 100%;
-  border-radius: 20px 20px 0 0;
+	width: 100%;
+	border-radius: 20px 20px 0 0;
+}
+
+/* Aside Styles */
+
+aside.left {
+	float: left;
+}
+
+aside.right {
+	float: right;
 }

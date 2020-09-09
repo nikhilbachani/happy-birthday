@@ -17,5 +17,12 @@ Made @ OneMonth HTML
 /* Hero Styles */
 
 .hero img {
-  border-radius: 0;
+	border-radius: 0;
+}
+
+/* Aside Styles */
+
+aside.left, aside.right {
+	text-align: center;
+	float: inherit;
 }
