@@ -1,0 +1,21 @@
+/*
+
+Project Name: Happy Birthday Alexis
+Author: Nikhil Bachani | https://www.linkedin.com/in/nikhilbachani/
+Made @ OneMonth HTML
+
+*/
+
+/* Container Styles */
+
+.container {
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+/* Hero Styles */
+
+.hero img {
+  border-radius: 0;
+}
