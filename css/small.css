@@ -25,5 +25,5 @@ Made @ OneMonth HTML
 aside.left, aside.right {
 	text-align: center;
 	float: inherit;
-	margin-bottom: 10px;
+	margin-bottom: 0.625rem;
 }

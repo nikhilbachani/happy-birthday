@@ -32,9 +32,9 @@ body {
 }
 
 p {
-	font-size: 16px;
+	font-size: 1rem;
 	line-height: 1.75;
-	margin-bottom: 28px;
+	margin-bottom: 1.75rem;
 }
 
 strong {
@@ -51,22 +51,22 @@ h1, h2 {
 	font-family: 'Lobster', cursive;
 	color: #e22f8f;
 	text-align: center;
-	margin-bottom: 32px;
+	margin-bottom: 2rem;
 }
 
 h1 {
-	font-size: 40px;
+	font-size: 2.5rem;
 }
 
 h2 {
-	font-size: 32px;
+	font-size: 2rem;
 }
 
 /* Container Styles */
 
 .container {
 	width: 600px;
-	margin: 100px auto;
+	margin: 6.25rem auto;
 }
 
 /* Hero Styles */
@@ -83,7 +83,7 @@ h2 {
 /* Section Styles */
 
 section.intro, section.contact {
-	padding: 40px;
+	padding: 2.5rem;
 	text-align: justify;
 }
 
@@ -102,7 +102,7 @@ section.map {
 section.copy {
 	background: #e6e9ea;
 	text-align: center;
-	padding: 16px;
+	padding: 1rem;
 }
 
 section.copy p {
@@ -114,10 +114,10 @@ section.copy p {
 
 aside.left {
 	float: left;
-	margin-right: 24px;
+	margin-right: 1.5rem;
 }
 
 aside.right {
 	float: right;
-	margin-left: 24px;
+	margin-left: 1.5rem;
 }
