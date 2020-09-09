@@ -17,7 +17,7 @@ Made @ OneMonth HTML
 /* General Styles */
 
 body {
-  background: #DDD;
+  background: #ddd;
   font-family: 'Open Sans', arial, sans-serif;
 }
 
@@ -64,5 +64,5 @@ h2 {
 .container {
   width: 600px;
   margin: 100px auto;
-  background: #FFF;
+  background: #fff;
 }
