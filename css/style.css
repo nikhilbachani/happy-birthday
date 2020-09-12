@@ -72,6 +72,11 @@ h2 {
 .container {
 	width: 600px;
 	margin: 6.25rem auto;
+	background: #e6e9ea;
+}
+
+.container section:nth-child(even) {
+	background: white;
 }
 
 /* Hero Styles */
@@ -92,27 +97,18 @@ section.intro, section.contact {
 	text-align: justify;
 }
 
-section.intro {
-	background: #fff;
-}
-
-section.contact {
-	background: #e6e9ea;
-}
-
 section.map {
 	line-height: 0;
 }
 
 section.copy {
-	background: #e6e9ea;
 	text-align: center;
 	padding: 1rem;
 }
 
 section.copy p {
 	margin: 0;
-	font-weight: bold;
+	font-size: .875rem;
 }
 
 /* Aside Styles */
