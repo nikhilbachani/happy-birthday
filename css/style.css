@@ -42,6 +42,15 @@ p {
 	margin-bottom: 1.75rem;
 }
 
+a {
+	color: #e22f8f;
+	text-decoration: none;
+}
+
+a:hover {
+	color: black;
+}
+
 strong {
 	font-weight: bold;
 }
