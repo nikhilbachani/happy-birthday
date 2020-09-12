@@ -81,11 +81,14 @@ h2 {
 .container {
 	width: 600px;
 	margin: 6.25rem auto;
-	background: #e6e9ea;
 }
 
 .container section:nth-child(even) {
 	background: white;
+}
+
+.container section:nth-child(2n + 3) {
+	background: #e6e9ea;
 }
 
 /* Hero Styles */
