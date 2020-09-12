@@ -27,3 +27,9 @@ aside.left, aside.right {
 	float: inherit;
 	margin-bottom: 0.625rem;
 }
+
+/* Section styles */
+
+section.contact {
+	text-align: center;
+}
